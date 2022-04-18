@@ -4,6 +4,6 @@
 
 <h1>My first PHP page</h1>
 
-Hello World!
+Hello User!
 </body>
 </html>
